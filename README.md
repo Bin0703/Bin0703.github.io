@@ -1,2 +1,2 @@
 index.html
-hello,frined
+hello,雒宝~
